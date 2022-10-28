@@ -1,4 +1,5 @@
 ![Pitney Bowes](/PitneyBowes_Logo.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FLocationIntelligenceSDK-Java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FLocationIntelligenceSDK-Java?ref=badge_shield)
 
 # Pitney Bowes Location Intelligence API
 
@@ -608,3 +609,7 @@ It's recommended to create an instance of `ApiClient` per thread in a multithrea
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2FLocationIntelligenceSDK-Java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2FLocationIntelligenceSDK-Java?ref=badge_large)
